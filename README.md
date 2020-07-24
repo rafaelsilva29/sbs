@@ -1,5 +1,5 @@
 # SBS
-## Sistemas Baseados em Similaridade pertencente ao perfil de Machine Learning - MIEINF
+## Sistemas Baseados em Similaridade - MIEINF
 
 Trabalho Prático da Unidade Curricular Sistemas Baseados em Similaridade pertencente ao perfil de Machine Learning
 
